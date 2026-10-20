@@ -1,0 +1,8 @@
+{
+  "name": "lottery-stock-scanner",
+  "description": "探索高度不確定、尚未被市場充分定價的彩券型股票（非投資建議）",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}
