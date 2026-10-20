@@ -26,6 +26,11 @@
       "name": "oc-namer",
       "source": "./plugins/oc-namer",
       "description": "根據角色設定跨語言創作英文拼寫的 OC 名字，附語源、音韻設計與 IPA"
+    },
+    {
+      "name": "precision-editor",
+      "source": "./plugins/precision-editor",
+      "description": "不改原意、不重寫全文的文字潤稿，附修改理由"
     }
   ]
 }
