@@ -1,0 +1,8 @@
+{
+  "name": "hallway-tester",
+  "description": "以一般使用者的經驗直覺測試介面，找出需要停下來思考的可用性風險",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}
