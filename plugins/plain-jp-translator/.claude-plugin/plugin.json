@@ -1,0 +1,8 @@
+{
+  "name": "plain-jp-translator",
+  "description": "將中文或英文委託文翻譯成自然、淺白的日文委託文",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}

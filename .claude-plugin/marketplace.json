@@ -1,0 +1,16 @@
+{
+  "name": "general-skill-hub",
+  "owner": {
+    "name": "Kent010341"
+  },
+  "metadata": {
+    "description": "AI Agent Skill Hub for General Usage"
+  },
+  "plugins": [
+    {
+      "name": "plain-jp-translator",
+      "source": "./plugins/plain-jp-translator",
+      "description": "將中文或英文委託文翻譯成自然、淺白的日文委託文"
+    }
+  ]
+}
