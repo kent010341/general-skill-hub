@@ -1,0 +1,8 @@
+{
+  "name": "oc-namer",
+  "description": "根據角色設定跨語言創作英文拼寫的 OC 名字，附語源、音韻設計與 IPA",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}

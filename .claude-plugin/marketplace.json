@@ -21,6 +21,11 @@
       "name": "lottery-stock-scanner",
       "source": "./plugins/lottery-stock-scanner",
       "description": "探索高度不確定、尚未被市場充分定價的彩券型股票（非投資建議）"
+    },
+    {
+      "name": "oc-namer",
+      "source": "./plugins/oc-namer",
+      "description": "根據角色設定跨語言創作英文拼寫的 OC 名字，附語源、音韻設計與 IPA"
     }
   ]
 }
