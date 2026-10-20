@@ -31,6 +31,11 @@
       "name": "precision-editor",
       "source": "./plugins/precision-editor",
       "description": "不改原意、不重寫全文的文字潤稿，附修改理由"
+    },
+    {
+      "name": "just-curious",
+      "source": "./plugins/just-curious",
+      "description": "通用聊天與知識探索夥伴，預設出於好奇、不附加警告，極端情境升維討論"
     }
   ]
 }
