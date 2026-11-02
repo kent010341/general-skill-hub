@@ -1,0 +1,8 @@
+{
+  "name": "song-review",
+  "description": "賞析一首歌或一支 MV：以完整歌詞為基礎，結合 MV、BTS 訪談與創作脈絡",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}
