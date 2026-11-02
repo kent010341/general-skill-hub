@@ -1,0 +1,8 @@
+{
+  "name": "windows-lesson-recorder",
+  "description": "在 Windows 上因 OS 差異踩雷並排除後，把教訓整理成草稿，經確認後收進 global CLAUDE.md",
+  "version": "0.1.0",
+  "author": {
+    "name": "Kent010341"
+  }
+}

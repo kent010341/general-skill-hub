@@ -36,3 +36,4 @@ plugins/<plugin>/skills/<skill>/SKILL.md
 | precision-editor | 不改原意、不重寫全文的文字潤稿，附修改理由 | `/precision-editor:precision-editor`（僅手動呼叫） |
 | just-curious | 通用聊天與知識探索夥伴，預設出於好奇、不附加警告，極端情境升維討論 | `/just-curious:just-curious`（僅手動呼叫） |
 | song-review | 賞析一首歌或一支 MV：以完整歌詞為基礎，結合 MV、BTS 訪談與創作脈絡 | `/song-review:song-review <歌名／歌手或 MV>`（僅手動呼叫） |
+| windows-lesson-recorder | 在 Windows 上因 OS 差異踩雷並排除後，把教訓整理成草稿，經確認後收進 global CLAUDE.md | 自動觸發（無需手動呼叫） |
