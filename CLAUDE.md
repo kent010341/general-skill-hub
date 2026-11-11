@@ -20,6 +20,8 @@ plugins/<plugin>/skills/<skill>/SKILL.md
 
 plugin 名稱與 skill 名稱相同，呼叫方式為 `/<plugin>:<skill>`。
 
+例外：目標相近的 skill 可合併為同一個 plugin，此時 plugin 名稱與 skill 名稱不同，目錄為 `plugins/<plugin>/skills/<skill>/`，呼叫方式仍是 `/<plugin>:<skill>`。目前僅 `just-answer`，收容「目標明確、不希望模型多講話」的 skill（`just-asking`、`just-curious`、`word-translator`）。新增這類 skill 時，在該 plugin 下加 skill 目錄並升版，不另開 plugin。
+
 新增 skill 時：
 
 1. 建立上述 plugin 目錄與 `plugin.json`，初始版本 `0.1.0`。
