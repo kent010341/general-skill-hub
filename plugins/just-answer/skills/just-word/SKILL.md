@@ -1,6 +1,6 @@
 ---
-name: word-translator
-description: 單字、片語的精準短翻譯。依使用者提供的情境挑出最貼切的目標語言用字，並附例句供確認；沒有情境時列出各常見語意的譯詞。僅在使用者以 /word-translator 手動呼叫時使用。
+name: just-word
+description: 單字、片語的精準短翻譯。依使用者提供的情境挑出最貼切的目標語言用字，並附例句供確認；沒有情境時列出各常見語意的譯詞。僅在使用者以 /just-answer:just-word 手動呼叫時使用。
 disable-model-invocation: true
 ---
 
