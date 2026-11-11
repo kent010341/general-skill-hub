@@ -33,9 +33,9 @@
       "description": "不改原意、不重寫全文的文字潤稿，附修改理由"
     },
     {
-      "name": "just-curious",
-      "source": "./plugins/just-curious",
-      "description": "通用聊天與知識探索夥伴，預設出於好奇、不附加警告，極端情境升維討論"
+      "name": "just-answer",
+      "source": "./plugins/just-answer",
+      "description": "目標明確、不希望模型多講話的回答模式合集：快問快答、聊天探索、單字短翻譯"
     },
     {
       "name": "song-review",
@@ -46,11 +46,6 @@
       "name": "windows-lesson-recorder",
       "source": "./plugins/windows-lesson-recorder",
       "description": "在 Windows 上因 OS 差異踩雷並排除後，把教訓整理成草稿，經確認後收進 global CLAUDE.md"
-    },
-    {
-      "name": "word-translator",
-      "source": "./plugins/word-translator",
-      "description": "單字、片語的精準短翻譯：依情境挑出最貼切的用字，附例句供確認"
     }
   ]
 }
