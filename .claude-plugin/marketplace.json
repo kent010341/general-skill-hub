@@ -33,11 +33,6 @@
       "description": "不改原意、不重寫全文的文字潤稿，附修改理由"
     },
     {
-      "name": "just-answer",
-      "source": "./plugins/just-answer",
-      "description": "目標明確、不希望模型多講話的回答模式合集：快問快答、聊天探索、單字短翻譯"
-    },
-    {
       "name": "song-review",
       "source": "./plugins/song-review",
       "description": "賞析一首歌或一支 MV：以完整歌詞為基礎，結合 MV、BTS 訪談與創作脈絡"

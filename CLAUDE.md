@@ -20,7 +20,7 @@ plugins/<plugin>/skills/<skill>/SKILL.md
 
 plugin 名稱與 skill 名稱相同，呼叫方式為 `/<plugin>:<skill>`。
 
-例外：目標相近的 skill 可合併為同一個 plugin，此時 plugin 名稱與 skill 名稱不同，目錄為 `plugins/<plugin>/skills/<skill>/`，呼叫方式仍是 `/<plugin>:<skill>`。目前僅 `just-answer`，收容「目標明確、不希望模型多講話」的 skill（`just-asking`、`just-curious`、`just-word`）。新增這類 skill 時，在該 plugin 下加 skill 目錄並升版，不另開 plugin。
+例外：目標相近的 skill 可合併為同一個 plugin，此時 plugin 名稱與 skill 名稱不同，目錄為 `plugins/<plugin>/skills/<skill>/`，呼叫方式仍是 `/<plugin>:<skill>`。新增同類 skill 時，在該 plugin 下加 skill 目錄並升版，不另開 plugin。「目標明確、不希望模型多講話」類的 skill（原 `just-answer`）已移至獨立 marketplace `kent010341/no-crap`，不再收容於此。
 
 新增 skill 時：
 
